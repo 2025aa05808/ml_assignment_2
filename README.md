@@ -5,7 +5,7 @@ The objective of this assignment is to design, implement, and deploy multiple ma
 
 ---
 
-## 2. Dataset Description  **[1 Mark]**
+## 2. Dataset Description
 - **Dataset Name:** Breast Cancer Wisconsin (Diagnostic)
 - **Source:** UCI Machine Learning Repository
 - **Problem Type:** Binary Classification
@@ -19,7 +19,7 @@ The objective of this assignment is to design, implement, and deploy multiple ma
 
 ---
 
-## 3. Models Used and Evaluation Metrics  **[6 Marks]**
+## 3. Models Used and Evaluation Metrics
 
 ### Implemented Models
 1. Logistic Regression  
@@ -45,7 +45,7 @@ Accuracy, AUC, Precision, Recall, F1 Score, MCC
 
 ---
 
-## 4. Model Observations  **[3 Marks]**
+## 4. Model Observations
 
 | Model | Observation |
 |------|------------|
